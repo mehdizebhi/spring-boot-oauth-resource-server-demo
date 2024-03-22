@@ -1,0 +1,16 @@
+INSERT INTO todos (title, completed)
+VALUES ('Task-1', false),
+       ('Task-2', true),
+       ('Task-3', true),
+       ('Task-4', true),
+       ('Task-5', false),
+       ('Task-6', false),
+       ('Task-7', true),
+       ('Task-8', true),
+       ('Task-9', false),
+       ('Task-10', false),
+       ('Task-11', true),
+       ('Task-12', false),
+       ('Task-13', true),
+       ('Task-14', false),
+       ('Task-15', true);
